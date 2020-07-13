@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.5f361e03.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.0fd2febe.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.0fd2febe.chunk.js.map",
+    "main.css": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.b0d07829.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.b0d07829.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/runtime-main.c9b0446c.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/runtime-main.c9b0446c.js.map",
-    "static/js/2.b1b31c97.chunk.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.b1b31c97.chunk.js",
-    "static/js/2.b1b31c97.chunk.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.b1b31c97.chunk.js.map",
+    "static/js/2.83522744.chunk.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js",
+    "static/js/2.83522744.chunk.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-5-Pomodoro/index.html",
-    "precache-manifest.9ae012407c0f148c3d9e7f7418bca5ea.js": "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.9ae012407c0f148c3d9e7f7418bca5ea.js",
+    "precache-manifest.4c7755b5f032f92665ff50e457ae7990.js": "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.4c7755b5f032f92665ff50e457ae7990.js",
     "service-worker.js": "/FCC-FrontEndCertificate-5-Pomodoro/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b1b31c97.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.b1b31c97.chunk.js.LICENSE.txt"
+    "static/css/main.27fd15f6.chunk.css.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.83522744.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9b0446c.js",
-    "static/js/2.b1b31c97.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0fd2febe.chunk.js"
+    "static/js/2.83522744.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.b0d07829.chunk.js"
   ]
 }
