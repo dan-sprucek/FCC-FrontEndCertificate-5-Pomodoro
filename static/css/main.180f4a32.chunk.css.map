@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,wBAAiC,CACjC,UACF,CACA,eACE,0BAA4B,CAC5B,0BACF","file":"main.180f4a32.chunk.css","sourcesContent":["body {\n  background-color: rgb(63, 67, 90);\n  color: white;\n}\n#sessionBorder {\n  border-width: 5px !important;\n  border-color: red !important\n}"]}
