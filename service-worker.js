@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.9d1821d45cd0f55239d09e762061bfeb.js"
+  "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.d37acbc36e6ab783eedcaa2516db4915.js"
 );
 
 self.addEventListener('message', (event) => {

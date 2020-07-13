@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.6be36445.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.6be36445.chunk.js.map",
+    "main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.0850a287.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/main.0850a287.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/runtime-main.c9b0446c.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/runtime-main.c9b0446c.js.map",
     "static/js/2.83522744.chunk.js": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js",
     "static/js/2.83522744.chunk.js.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-5-Pomodoro/index.html",
-    "precache-manifest.9d1821d45cd0f55239d09e762061bfeb.js": "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.9d1821d45cd0f55239d09e762061bfeb.js",
+    "precache-manifest.d37acbc36e6ab783eedcaa2516db4915.js": "/FCC-FrontEndCertificate-5-Pomodoro/precache-manifest.d37acbc36e6ab783eedcaa2516db4915.js",
     "service-worker.js": "/FCC-FrontEndCertificate-5-Pomodoro/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/FCC-FrontEndCertificate-5-Pomodoro/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.83522744.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-5-Pomodoro/static/js/2.83522744.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c9b0446c.js",
     "static/js/2.83522744.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.6be36445.chunk.js"
+    "static/js/main.0850a287.chunk.js"
   ]
 }
