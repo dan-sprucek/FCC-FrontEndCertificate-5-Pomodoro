@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86189401b383847b4f56dd56774b345b",
+    "revision": "60f542ea31a48e71c6f40ac9e0187f93",
     "url": "/FCC-FrontEndCertificate-5-PomodoroClock/index.html"
   },
   {
-    "revision": "b0253f8907754535f7fc",
+    "revision": "e6427e6e1d0f09f5ec8b",
     "url": "/FCC-FrontEndCertificate-5-PomodoroClock/static/css/main.180f4a32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FCC-FrontEndCertificate-5-PomodoroClock/static/js/2.83522744.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0253f8907754535f7fc",
-    "url": "/FCC-FrontEndCertificate-5-PomodoroClock/static/js/main.707a69ff.chunk.js"
+    "revision": "e6427e6e1d0f09f5ec8b",
+    "url": "/FCC-FrontEndCertificate-5-PomodoroClock/static/js/main.ad844a1c.chunk.js"
   },
   {
     "revision": "4344b864842fa5603670",
